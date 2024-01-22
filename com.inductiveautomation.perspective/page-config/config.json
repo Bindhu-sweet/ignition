@@ -1,5 +1,12 @@
 {
-  "pages": {},
+  "pages": {
+    "/": {
+      "viewPath": "github"
+    },
+    "/newww": {
+      "viewPath": "newww"
+    }
+  },
   "sharedDocks": {
     "cornerPriority": "top-bottom"
   }
