@@ -3,6 +3,26 @@
   "params": {},
   "props": {},
   "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "PowerChart"
+        },
+        "position": {
+          "height": 600,
+          "width": 800,
+          "x": 283,
+          "y": 195
+        },
+        "props": {
+          "interaction": {
+            "chartZoomLevel": 1,
+            "rangeZoomLevel": 1
+          }
+        },
+        "type": "ia.chart.powerchart"
+      }
+    ],
     "meta": {
       "name": "root"
     },
