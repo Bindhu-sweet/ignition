@@ -6,6 +6,9 @@
     },
     "/newww": {
       "viewPath": "newww"
+    },
+    "/test": {
+      "viewPath": "test"
     }
   },
   "sharedDocks": {
